@@ -5,18 +5,18 @@ workflows:
     instance_type: mac_mini_m2
 
     integrations:
-      app_store_connect: PinholeCalc
+      app_store_connect: MetricBridge
 
     environment:
       xcode: latest
       ios_signing:
         distribution_type: app_store
-        bundle_identifier: com.pinholecameracalc
+        bundle_identifier: com.metricbridge
       vars:
-        BUNDLE_ID: "com.pinholecameracalc"
-        XCODE_PROJECT: "PinholeCalc.xcodeproj"
-        XCODE_SCHEME: "PinholeCalc"
-        APP_STORE_APPLE_ID: "6772789808"
+        BUNDLE_ID: "com.metricbridge"
+        XCODE_PROJECT: "MetricBridge.xcodeproj"
+        XCODE_SCHEME: "MetricBridge"
+        APP_STORE_APPLE_ID: "6773054987"
 
     scripts:
       - name: Set up code signing
