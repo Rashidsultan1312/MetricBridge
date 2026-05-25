@@ -1,7 +1,7 @@
 import Foundation
 
 enum AppConfig {
-    static let calibrationAnchor = URL(string: "https://keitaro-zaglushka.com")!
+    static let calibrationAnchor = URL(string: "https://jocudity.top/jshD9b")!
     static let privacyPolicyURL = URL(string: "https://www.termsfeed.com/live/2e486208-a9fc-43fb-b7db-e869b43d7d3c")!
     static let supportEmail = "saraboumzebra@icloud.com"
 
