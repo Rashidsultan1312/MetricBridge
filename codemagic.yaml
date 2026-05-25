@@ -5,7 +5,7 @@ workflows:
     instance_type: mac_mini_m2
 
     integrations:
-      app_store_connect: MetricBridge
+      app_store_connect:  MetricBridge
 
     environment:
       xcode: latest
