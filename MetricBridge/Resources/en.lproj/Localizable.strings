@@ -1,0 +1,298 @@
+"tab.convert" = "Convert";
+"tab.history" = "History";
+"tab.settings" = "Settings";
+
+"label.from" = "From";
+"label.to" = "To";
+"placeholder.value" = "Value";
+"action.done" = "Done";
+"action.cancel" = "Cancel";
+"action.pin" = "Pin this pair";
+"action.unpin" = "Unpin this pair";
+"toast.copied" = "Copied";
+"section.allUnits" = "All units";
+
+"kind.length" = "Length";
+"kind.mass" = "Mass";
+"kind.temperature" = "Temp";
+"kind.volume" = "Volume";
+"kind.area" = "Area";
+"kind.speed" = "Speed";
+"kind.data" = "Data";
+"kind.time" = "Time";
+"kind.pressure" = "Pressure";
+"kind.energy" = "Energy";
+"kind.power" = "Power";
+"kind.frequency" = "Freq";
+"kind.fuelEconomy" = "Fuel";
+"kind.angle" = "Angle";
+
+"unit.mm" = "Millimeter";
+"unit.cm" = "Centimeter";
+"unit.m" = "Meter";
+"unit.km" = "Kilometer";
+"unit.in" = "Inch";
+"unit.ft" = "Foot";
+"unit.yd" = "Yard";
+"unit.mi" = "Mile";
+"unit.nmi" = "Nautical mile";
+
+"unit.mg" = "Milligram";
+"unit.g" = "Gram";
+"unit.kg" = "Kilogram";
+"unit.t" = "Metric ton";
+"unit.oz" = "Ounce";
+"unit.lb" = "Pound";
+"unit.st" = "Stone";
+
+"unit.celsius" = "Celsius";
+"unit.fahrenheit" = "Fahrenheit";
+"unit.kelvin" = "Kelvin";
+"unit.rankine" = "Rankine";
+
+"unit.ml" = "Milliliter";
+"unit.l" = "Liter";
+"unit.m3" = "Cubic meter";
+"unit.tsp" = "Teaspoon";
+"unit.tbsp" = "Tablespoon";
+"unit.flozUS" = "Fluid ounce (US)";
+"unit.cupUS" = "Cup (US)";
+"unit.ptUS" = "Pint (US)";
+"unit.galUS" = "Gallon (US)";
+"unit.galUK" = "Gallon (UK)";
+
+"unit.mm2" = "Square millimeter";
+"unit.cm2" = "Square centimeter";
+"unit.m2" = "Square meter";
+"unit.ha" = "Hectare";
+"unit.km2" = "Square kilometer";
+"unit.in2" = "Square inch";
+"unit.ft2" = "Square foot";
+"unit.yd2" = "Square yard";
+"unit.acre" = "Acre";
+"unit.mi2" = "Square mile";
+
+"unit.mps" = "Meter / second";
+"unit.kph" = "Kilometer / hour";
+"unit.mph" = "Mile / hour";
+"unit.fps" = "Foot / second";
+"unit.knot" = "Knot";
+"unit.mach" = "Mach";
+
+"unit.bit" = "Bit";
+"unit.B" = "Byte";
+"unit.kB" = "Kilobyte";
+"unit.MB" = "Megabyte";
+"unit.GB" = "Gigabyte";
+"unit.TB" = "Terabyte";
+"unit.KiB" = "Kibibyte";
+"unit.MiB" = "Mebibyte";
+"unit.GiB" = "Gibibyte";
+"unit.TiB" = "Tebibyte";
+
+"unit.ms" = "Millisecond";
+"unit.s" = "Second";
+"unit.min" = "Minute";
+"unit.h" = "Hour";
+"unit.day" = "Day";
+"unit.week" = "Week";
+"unit.month" = "Month";
+"unit.year" = "Year";
+
+"unit.Pa" = "Pascal";
+"unit.hPa" = "Hectopascal";
+"unit.kPa" = "Kilopascal";
+"unit.bar" = "Bar";
+"unit.atm" = "Atmosphere";
+"unit.mmHg" = "Millimeter of mercury";
+"unit.inHg" = "Inch of mercury";
+"unit.psi" = "Pound / sq. inch";
+
+"unit.J" = "Joule";
+"unit.kJ" = "Kilojoule";
+"unit.cal" = "Calorie";
+"unit.kcal" = "Kilocalorie";
+"unit.Wh" = "Watt-hour";
+"unit.kWh" = "Kilowatt-hour";
+"unit.BTU" = "BTU";
+"unit.ftlb" = "Foot-pound";
+
+"unit.W" = "Watt";
+"unit.kW" = "Kilowatt";
+"unit.MW" = "Megawatt";
+"unit.hp" = "Horsepower";
+"unit.ps" = "Metric horsepower";
+"unit.BTUh" = "BTU / hour";
+"unit.ftlbs" = "Foot-pound / s";
+
+"unit.Hz" = "Hertz";
+"unit.kHz" = "Kilohertz";
+"unit.MHz" = "Megahertz";
+"unit.GHz" = "Gigahertz";
+"unit.rpm" = "Revolutions / min";
+
+"unit.kmL" = "Kilometer / liter";
+"unit.L100km" = "Liters / 100 km";
+"unit.mpgUS" = "Miles / gallon (US)";
+"unit.mpgUK" = "Miles / gallon (UK)";
+
+"unit.deg" = "Degree";
+"unit.rad" = "Radian";
+"unit.grad" = "Gradian";
+"unit.arcmin" = "Arcminute";
+"unit.arcsec" = "Arcsecond";
+"unit.turn" = "Turn";
+
+"section.pinned" = "Pinned pairs";
+"section.recent" = "Recent";
+"history.empty.title" = "Nothing here yet";
+"history.empty.body" = "Conversions you make will show up here. Pin a pair to keep it handy.";
+
+"settings.section.formatting" = "Formatting";
+"settings.section.data" = "Data";
+"settings.section.about" = "About";
+"settings.precision" = "Decimal places";
+"settings.appearance" = "Appearance";
+"settings.clearHistory" = "Clear history";
+"settings.clearHistory.confirm" = "Clear all history?";
+"settings.support" = "Contact support";
+"settings.privacy" = "Privacy Policy";
+"settings.version" = "Version";
+
+"appearance.system" = "System";
+"appearance.light" = "Light";
+"appearance.dark" = "Dark";
+
+"support.subject" = "App Support";
+
+"onb.skip" = "Skip";
+"onb.next" = "Next";
+"onb.start" = "Get Started";
+"onb.1.title" = "Convert anything, instantly";
+"onb.1.body" = "Type a value and watch it convert as you go — no buttons, no waiting.";
+"onb.2.title" = "Nine kinds of units";
+"onb.2.body" = "Length, mass, temperature, volume, area, speed, data, time and pressure — all in one place.";
+"onb.3.title" = "Tune it your way";
+"onb.3.body" = "Set your own decimal precision, pin the pairs you use most, and revisit your history any time.";
+
+"tab.categories" = "Categories";
+"tab.reference" = "Reference";
+"tab.cheatsheet" = "Cheatsheet";
+
+"section.units" = "Units in this category";
+"section.quickRecipes" = "Quick recipes";
+"section.didYouKnow" = "Did you know";
+"section.formulas" = "Formulas";
+
+"categories.hero.title" = "Browse by category";
+"categories.hero.subtitle" = "14 categories, every unit you might need. Tap a card to dive in and pull pairs into the converter.";
+"stats.categories" = "Categories";
+"stats.units" = "Units total";
+
+"filter.all" = "All";
+"action.openInConverter" = "Open in converter";
+
+"empty.recipes.title" = "No quick recipes";
+"empty.recipes.body" = "Recipes are short conversion examples for this category.";
+"empty.facts.title" = "No notes yet";
+"empty.facts.body" = "Curious facts about units will land here as we add them.";
+"empty.formulas.title" = "No formulas in this filter";
+"empty.formulas.body" = "Pick another category from the chips above.";
+
+"cheatsheet.intro.title" = "One-tap conversions";
+"cheatsheet.intro.body" = "Tap any row to load it in the converter. Search by unit code or category name.";
+"cheatsheet.search" = "Search units (e.g. mi, kg, °F)";
+
+"category.length.description" = "Distances and dimensions, from grains of sand to lunar orbits.";
+"category.mass.description" = "Weight and matter — kitchen scales, jewellery, freight, science.";
+"category.temperature.description" = "Heat scales across science, weather and cooking.";
+"category.volume.description" = "Liquid and dry capacity — pints to cubic meters.";
+"category.area.description" = "Surface measurements — postcards to provinces.";
+"category.speed.description" = "Movement rates — strolls, road trips, aircraft, sound.";
+"category.data.description" = "Digital storage, decimal and binary, bit to tebibyte.";
+"category.time.description" = "From a tick of the clock to a year of revolutions.";
+"category.pressure.description" = "Force per area — tyres, divers, weather fronts.";
+"category.energy.description" = "Work and heat across joules, calories and BTUs.";
+"category.power.description" = "Energy per second — bulbs, engines, power plants.";
+"category.frequency.description" = "Cycles per second — sound, radio, processors.";
+"category.fuelEconomy.description" = "Fuel efficiency in km/L, L/100 km and mpg.";
+"category.angle.description" = "Slopes, headings, geometry — degrees, radians and turns.";
+
+"recipe.cm_in" = "Quick: 30 cm ≈ a school ruler.";
+"recipe.km_mi" = "10 km ≈ 6.21 mi — half marathon pace.";
+"recipe.m_ft" = "1 m is just over 3.28 ft.";
+"recipe.kg_lb" = "Carry-on luggage 7 kg ≈ 15.4 lb.";
+"recipe.g_oz" = "100 g ≈ 3.5 oz of chocolate.";
+"recipe.c_f" = "20 °C ≈ 68 °F — comfy room temp.";
+"recipe.l_gal" = "Family car tank 50 L ≈ 13.2 US gal.";
+"recipe.ml_cup" = "240 mL ≈ 1 US cup.";
+"recipe.m2_ft2" = "10 m² ≈ 107.6 ft² — studio apartment.";
+"recipe.kmh_mph" = "Highway 120 km/h ≈ 74.6 mph.";
+"recipe.mb_gb" = "1000 MB ≈ 1 GB (decimal).";
+"recipe.min_h" = "90 min = 1.5 h — feature film length.";
+"recipe.bar_psi" = "Car tyre 2.3 bar ≈ 33.4 psi.";
+"recipe.j_cal" = "1 cal = 4.184 J — small calorie.";
+"recipe.w_hp" = "750 W ≈ 1 hp — strong vacuum cleaner.";
+"recipe.lp100_mpg" = "6 L/100 km ≈ 39.2 mpg (US).";
+"recipe.deg_rad" = "180° = π rad — a straight line.";
+
+"fact.length.meter.title" = "What the meter really is";
+"fact.length.meter.body" = "Since 1983 the meter is defined as the distance light travels in vacuum during 1/299,792,458 of a second.";
+"fact.length.lightYear.title" = "One light-year";
+"fact.length.lightYear.body" = "About 9.46 trillion kilometers — the distance light covers in a Julian year.";
+"fact.mass.kilogram.title" = "Kilogram redefined";
+"fact.mass.kilogram.body" = "In 2019 the kilogram was redefined from a physical artifact (the IPK) to Planck's constant — universal and immutable.";
+"fact.mass.troyOunce.title" = "Troy vs avoirdupois";
+"fact.mass.troyOunce.body" = "A troy ounce (~31.10 g) is used for precious metals and is heavier than a regular ounce (~28.35 g).";
+"fact.temperature.celsius.title" = "Anders Celsius's flip";
+"fact.temperature.celsius.body" = "Celsius originally proposed a reversed scale (0 = boiling, 100 = freezing). It was inverted to today's form after his death in 1744.";
+"fact.temperature.absolute.title" = "Why 273.15";
+"fact.temperature.absolute.body" = "Absolute zero — 0 K, −273.15 °C — is where classical kinetic motion of particles stops.";
+"fact.volume.liter.title" = "Liter is non-SI";
+"fact.volume.liter.body" = "The liter is accepted for use with SI but isn't itself an SI unit — the SI unit of volume is the cubic meter.";
+"fact.volume.gallons.title" = "US vs imperial gallons";
+"fact.volume.gallons.body" = "A US gallon is 3.785 L; an imperial gallon is 4.546 L — about 20% larger.";
+"fact.area.hectare.title" = "A hectare is a square 100 m";
+"fact.area.hectare.body" = "Exactly 10,000 m² — roughly two soccer fields.";
+"fact.speed.mach.title" = "Mach is relative";
+"fact.speed.mach.body" = "Mach 1 depends on temperature: ~1235 km/h at sea level but drops at altitude.";
+"fact.data.byte.title" = "Byte isn't always 8 bits";
+"fact.data.byte.body" = "Modern bytes are 8 bits, but historic machines used 6-, 7- or 9-bit bytes. The 8-bit byte became standard around the 1970s.";
+"fact.time.second.title" = "Atomic second";
+"fact.time.second.body" = "Defined by 9,192,631,770 transitions of caesium-133 — accurate to one second in millions of years.";
+"fact.pressure.bar.title" = "One bar ≈ surface pressure";
+"fact.pressure.bar.body" = "1 bar = 100,000 Pa, very close to average atmospheric pressure at sea level (1.01325 bar).";
+"fact.energy.joule.title" = "Joule, the workhorse";
+"fact.energy.joule.body" = "1 J is the energy to lift ~102 g by one meter against gravity, or the heat from 0.239 calories.";
+"fact.power.watt.title" = "Watt = J/s";
+"fact.power.watt.body" = "Power is the rate of energy transfer. A 100 W bulb burns 100 J every second.";
+"fact.frequency.hertz.title" = "Hz vs RPM";
+"fact.frequency.hertz.body" = "60 Hz = 3,600 rpm. Mains electricity is 50 Hz in Europe, 60 Hz in the Americas.";
+"fact.fuel.lp100.title" = "Lower is better";
+"fact.fuel.lp100.body" = "L/100 km is reciprocal to mpg — small numbers mean efficient cars. 5 L/100 km ≈ 47 mpg (US).";
+"fact.angle.radian.title" = "Why radians";
+"fact.angle.radian.body" = "A radian is the angle subtended by an arc equal to the radius — π rad in a half-turn, 2π rad in a full circle.";
+
+"formula.len.mi_km.title" = "Miles ↔ Kilometers";
+"formula.len.mi_km.example" = "Example: 5 km × 0.6213712 ≈ 3.107 mi.";
+"formula.tmp.c_f.title" = "Celsius → Fahrenheit";
+"formula.tmp.c_f.example" = "Example: 25 °C × 9/5 + 32 = 77 °F.";
+"formula.tmp.c_k.title" = "Celsius → Kelvin";
+"formula.tmp.c_k.example" = "Example: 0 °C = 273.15 K.";
+"formula.mass.kg_lb.title" = "Kilograms → Pounds";
+"formula.mass.kg_lb.example" = "Example: 70 kg × 2.2046 ≈ 154.3 lb.";
+"formula.vol.l_gal.title" = "Liters → US Gallons";
+"formula.vol.l_gal.example" = "Example: 50 L × 0.264172 ≈ 13.21 gal.";
+"formula.spd.mph_kmh.title" = "Miles/h → Kilometers/h";
+"formula.spd.mph_kmh.example" = "Example: 60 mph × 1.609344 ≈ 96.56 km/h.";
+"formula.pwr.w_hp.title" = "Watts → Horsepower";
+"formula.pwr.w_hp.example" = "Example: 1000 W ÷ 745.7 ≈ 1.34 hp.";
+"formula.ang.deg_rad.title" = "Degrees → Radians";
+"formula.ang.deg_rad.example" = "Example: 90° × π/180 ≈ 1.5708 rad.";
+"formula.fuel.lp100_mpg.title" = "L/100km → mpg (US)";
+"formula.fuel.lp100_mpg.example" = "Example: 235.2146 ÷ 8 L/100km ≈ 29.4 mpg.";
+
+"gate.welcome.title" = "Welcome";
+"gate.welcome.subtitle" = "Review the privacy notice, then continue.";
+"gate.privacy.agree" = "I agree to the Privacy Policy";
+"gate.privacy.continue" = "Continue";
